@@ -1,0 +1,9 @@
+Aqui está listado todos os tópicos de aprendizado contido neste curso (GIT/GITHUB):
+
+1- Aprendi o que é versionamento de código.
+2- Aprendi o que é o GIT.
+3- Aprendi o que é o GITHUB.
+4- Aprendi a baixar e instalar o git.
+5- Aprendi a comandar as versões do meu código com o git bash.
+6- Aprendi a criar e atualizar um repositório no GITHUB.
+7- Aprendi também a viciar em git :)
